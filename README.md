@@ -1,4 +1,4 @@
-# Voice-Activated-Data-Retriever
+# Medical-History-Retriever
 Note-The provided resources doesn't contains the database code of MySQL and the website doesn't have a backend
 
 > Using voice and Generative AI to update and retrieve lab information at hospital labs using patient IDs as unique identifiers
